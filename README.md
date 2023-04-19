@@ -1,0 +1,2 @@
+# FreshmanLearningDL
+新手学习深度学习的入门骨灰级教程编写
